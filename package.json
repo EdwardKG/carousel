@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^11.2.5",
+    "ng2-carouselamos": "^4.1.0"
+  }
+}
