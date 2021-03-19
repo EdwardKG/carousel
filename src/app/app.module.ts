@@ -7,8 +7,8 @@ import {FirstComponent} from './first/first.component';
 import {SecondComponent} from './second/second.component';
 import {ThirdComponent} from './third/third.component';
 import { from } from 'rxjs';
-
-@NgModule({
+ 
+@NgModule({ 
   declarations: [
     AppComponent,
 	 FirstComponent,
